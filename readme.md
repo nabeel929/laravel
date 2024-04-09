@@ -1,4 +1,5 @@
 # LMS-Laravel
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/20bb5dbf65484fd78ad0a3c4b1f07fd2)](https://app.codacy.com/gh/nabeel929/laravel?utm_source=github.com&utm_medium=referral&utm_content=nabeel929/laravel&utm_campaign=Badge_Grade)
 [![Latest Stable Version](https://poser.pugx.org/lms-laravel/lms-laravel/v/stable)](https://packagist.org/packages/lms-laravel/lms-laravel)
 [![Total Downloads](https://poser.pugx.org/lms-laravel/lms-laravel/downloads)](https://packagist.org/packages/lms-laravel/lms-laravel)
 [![Latest Unstable Version](https://poser.pugx.org/lms-laravel/lms-laravel/v/unstable)](https://packagist.org/packages/lms-laravel/lms-laravel)
